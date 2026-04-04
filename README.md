@@ -1,7 +1,7 @@
 # Olá, eu sou a Agnes 🤓
 **`Desenvolvedor (em formação) Front-End | Entusiasta de Python`**
 
-Sou formado em Tecnico em Informática pelo COTEMIG e, atualmente, estou estudando Desenvolvimento Front-End no DEVCLUB, para realizar meu sonho de trabalhar na área que sempre sonhei.
+Sou formada em Tecnico em Informática pelo COTEMIG e, atualmente, estou estudando Desenvolvimento Front-End no DEVCLUB, para realizar meu sonho de trabalhar na área que sempre sonhei.
 
 Acredito que com esforço e dedicação é possivel se alcançar os mais profundos sonhos. Por isso, foco meus estudos em desenvolvimento e aprendizado de novas linguagens e ferramentas.
 
