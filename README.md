@@ -1,13 +1,8 @@
 # Olá, eu sou a Agnes 🤓
-**`Desenvolvedora (em formação) Front-End | Entusiasta de Python`**
+**`Desenvolvedora Front-End | Entusiasta de Python`**
 
-Sou formada em TI pelo COTEMIG e, atualmente, estou estudando Desenvolvimento Front-End no DEVCLUB, para realizar meu sonho de fazer a transição de carreira para a área que sempre quis.
+<h2>Sou formada em TI pelo COTEMIG. Estou aprimorando minhas habilidades em HTML, CSS, JavaScript e iniciando meus estudos em React e Node.Js.</h2>
 
-Acredito que com esforço e dedicação é possivel se alcançar os mais profundos sonhos. Por isso, foco meus estudos em desenvolvimento e aprendizado de novas linguagens e ferramentas.
-
-📊 Atualmente explorando: HTML5, CSS3, JavaScript.
-
-💡 Buscando aplicar meus estudos e conhecimentos para resolver problemas reais de mercado.
 
    <p align="left"> 
     <a href="https://github.com/agnesaliceg?tab=followers">
